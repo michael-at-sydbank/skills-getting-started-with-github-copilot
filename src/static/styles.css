@@ -89,6 +89,7 @@ section h3 {
 }
 
 .participants-list {
+  /* Render participant rows without default bullets */
   margin: 0;
   padding: 0;
   list-style: none;
