@@ -134,6 +134,7 @@ section h3 {
 }
 
 .participants-empty {
+  /* Keep empty state readable and lightweight */
   margin: 0;
   font-style: italic;
   color: #5f6b7a;
